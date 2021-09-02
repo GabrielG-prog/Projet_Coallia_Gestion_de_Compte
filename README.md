@@ -1,12 +1,26 @@
 ## Projet Coallia
 ***
-Site sur la gestion des comptes des salariés de Coallia 
-```
-Page de connexion
-Vue d'ensemble des comptes de chaque salarié
-Manipulation d'un compte (ajouter, supprimer, modifier, voir en détail)
-filtre sur les recherche
-page de recherche 
+Site sur la gestion des comptes des salariés de Coallia.
 
-```
-Base de donnée : Microsoft SQL server
+## Technologie
+***
+Liste des outils utilisé :
+* Xamp
+* ODBC Driver
+* WebDev et WinDev 22
+
+## Instruction
+***
+Pour exploiter les données il faut :
+> Configurer XAMP pour qu'il puisse utiliser Microsoft SQL Server 
+> Utiliser et configurer ODBC pour utiliser les fichier HFSQL
+
+## Description
+***
+Ce site permet d'avoir une vue d'ensemble sur tous les comptes de chaque application de Coallia et de manipuler ces comptes (ajout, modification et desactivation).
+Voici les pages que contient le site :
+> Page de connexion
+> Vue d'ensemble des comptes
+> Page de recherche
+> filtre des recherche 
+> page d'ajout, modification et de vue en détail d'un compte
