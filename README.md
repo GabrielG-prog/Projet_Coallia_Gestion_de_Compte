@@ -10,7 +10,7 @@ Liste des outils utilisé :
 ## Instruction
 Pour exploiter les données il faut :
 * Configurer XAMP pour qu'il puisse utiliser Microsoft SQL Server 
-* Utiliser et configurer ODBC pour utiliser les fichier HFSQL
+* Utiliser et configurer ODBC pour utiliser les fichier HFSQL venant de Windev et Webdev
 
 ## Description
 Ce site permet d'avoir une vue d'ensemble sur tous les comptes de chaque application de Coallia et de manipuler ces comptes (ajout, modification et desactivation).
